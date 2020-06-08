@@ -1,4 +1,4 @@
-# site
+# East Coast Smash Sundays
 The premier East Coast Sunday netplay weekly
 <h1>Special Netplay Builds</h1>
 <h2>Windows</h2>

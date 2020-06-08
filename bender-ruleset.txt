@@ -1,4 +1,4 @@
-$Bender Rules (Frozen Stages, 60 LGL)
+$ECSS Ruleset (Frozen Stages, 60 LGL)
 C21A5E90 00000002 #Timeout Behavior 2019 [UnclePunch]
 386000B4 907F0010
 7FE3FB78 00000000

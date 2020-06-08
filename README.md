@@ -3,7 +3,7 @@ The premier East Coast Sunday netplay weekly
 <h1>Special Netplay Builds</h1>
 These builds incorporate the official Timeout rules, which are that, after a timeout, the player with the higher stock count wins. If stock counts are tied, the player with the lower percent wins. If percents are tied, the game goes into a 1 stock 3 minute tiebreaker. It also adds a ledge grab limit that only comes into effect in timeouts. If one player grabs the ledge 60 or more times and the game goes to time, that player loses the game. If both players grab the ledge 60 or more times, regular timeout rules apply. The winner of timeouts is decided inside the game in these builds, and is shown at the game end or winner screen, which shows in these builds, unlike in normal Slippi builds.
 <h2>Windows</h2>
-Download <a href="./Slippi%20Build%20Windows.zip">ECSS Slippi Build Windows.zip</a> and unzip it. Then set your default iso/ROM/path to your Melee iso/path of. Use the ECSS build for ECSS and your regular Slippi build for normal netplay.
+Download <a href="./ECSS Slippi Build Windows.zip">ECSS Slippi Build Windows.zip</a> and unzip it. Then set your default iso/ROM/path to your Melee iso/path of. Use the ECSS build for ECSS and your regular Slippi build for normal netplay.
 <h2>MacOS</h2>
 Download ECSS Slippi Build Mac.zip and unzip it. Then set your default iso/ROM/path to your Melee iso/path of. Use the ECSS build for ECSS and your regular Slippi build for normal netplay.
 <h2>Linux</h2>

@@ -5,7 +5,7 @@ These builds incorporate the official Timeout rules, which are that, after a tim
 <h2>Windows</h2>
 Download <a href="./ECSS Slippi Build Windows.zip">ECSS Slippi Build Windows.zip</a> and unzip it. Then set your default iso/ROM/path to your Melee iso/path of. Use the ECSS build for ECSS and your regular Slippi build for normal netplay.
 <h2>MacOS</h2>
-Download ECSS Slippi Build Mac.zip and unzip it. Then set your default iso/ROM/path to your Melee iso/path of. Use the ECSS build for ECSS and your regular Slippi build for normal netplay.
+Download <a href="./ECSS Slippi Build Mac.zip">ECSS Slippi Build Mac.zip</a> and unzip it. Then set your default iso/ROM/path to your Melee iso/path of. Use the ECSS build for ECSS and your regular Slippi build for normal netplay.
 <h2>Linux</h2>
 This is the most complex one, but it shouldn't be too difficult. You need to make a copy of your normal Slippi and download Codes and Setup Files.zip. From here, there are 2 ways to add our codes.
 <h3>The simple way</h3>

@@ -1,5 +1,7 @@
 # East Coast Smash Sundays
 The premier East Coast Sunday netplay weekly
+<a href="https://discord.gg/xQWcq4J">The Discord</a>
+<a href="https://smash.gg/ecss">This week's installment</a>
 <h1>Special Netplay Builds</h1>
 These builds incorporate the official Timeout rules, which are that, after a timeout, the player with the higher stock count wins. If stock counts are tied, the player with the lower percent wins. If percents are tied, the game goes into a 1 stock 3 minute tiebreaker. It also adds a ledge grab limit that only comes into effect in timeouts. If one player grabs the ledge 60 or more times and the game goes to time, that player loses the game. If both players grab the ledge 60 or more times, regular timeout rules apply. The winner of timeouts is decided inside the game in these builds, and is shown at the game end or winner screen, which shows in these builds, unlike in normal Slippi builds.
 <h2>Windows</h2>
